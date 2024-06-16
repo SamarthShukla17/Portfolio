@@ -4,6 +4,7 @@ import Timeline2 from "@/components/Timeline2";
 import Profile from "@/components/Profile";
 import Services_offered from "@/components/Services_offered"
 import Footer from "@/components/Footer";
+import Projects from "@/components/Projects";
 
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
       <HeroSection />
       <Timeline />
       <Timeline2 />
+      <Projects />
       <Services_offered />
       <Profile />
       <Footer />

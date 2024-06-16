@@ -26,7 +26,7 @@ function Footer() {
       <footer className="bg-black text-gray-400 py-12">
         <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-4 sm:px-6 lg:px-8">
         <div>
-          <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
+          <h2 className="text-white text-lg font-semibold mb-4">About Me</h2>
           <p className="mb-4">
             I am a sophomore at KIIT, Bhubaneswar, currently persuing B.tech in Computer Science Engineering. I also play for the university u-19 cricket team.
           </p>
@@ -69,7 +69,7 @@ function Footer() {
           </ul>
         </div>
         <div>
-          <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
+          <h2 className="text-white text-lg font-semibold mb-4">Follow Me</h2>
           <div className="flex space-x-4">
           <ul>
             <li>
