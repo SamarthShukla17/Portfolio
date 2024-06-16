@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Bloggit",
+            "description": "Frontend design of a blogging website using basic skills like HTML, CSS and Javascript",
+            "image": ""
+        },
+        {
+            "title": "E-commerce store",
+            "description":"Frontend design of an E-commerce website using basic skills like HTML, CSS and Javascript",
+            "image": ""
+        },
+        {
+            "title": "Profile cards",
+            "description": "Frontend design of two profile cards to be used in a website using basic skills like HTML, CSS and Javascript",
+            "image": ""
+        },
+        {
+            "title": "Interactive image carousel",
+            "description":"Frontend design of an interactive image carousel using basic skills like HTML, CSS and Javascript",
+            "image": ""
+        }
+    ]
+}
